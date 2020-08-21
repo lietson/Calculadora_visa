@@ -1,0 +1,98 @@
+body{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.904);
+}
+
+.conteudo {
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 10px;
+    width: 450px;
+}
+
+.conteudo input[name="visor"] {
+    width: 100%;
+    height: 100px;
+    /* direction: rtl; */
+    font-size: 40px;
+}
+
+.buttons-numbers button{
+    border-radius: 3px;
+    border-style: none;
+    font-size: 50px;
+    margin: 5px;
+    padding: 10px;
+    width: 70px;
+}
+
+.buttons-numbers {
+    margin-top: -420px;
+    margin-left: 4px;
+}
+
+.operadores {
+    border-radius: 3px;
+    border-style: none;
+    font-size: 50px;
+    margin: 5px;
+    padding: 10px;
+    margin-top: -428px;
+}
+
+.operadores button{
+    border-radius: 3px;
+    border-style: none;
+    font-size: 50px;
+    margin: 5px;
+    padding: 10px;
+    width: 60px;
+}
+
+.operadores .igual{
+    width: 145px;
+}
+
+.buttons .topo button[data-id="button-operaion-div"]{
+    border-radius: 3px;
+    border-style: none;
+    padding: 10px;
+    margin: 5px;
+    width: 60px;
+}
+
+.buttons .topo button[data-id="button-operaion-div"]{
+    margin-right: 253px;
+}
+
+.buttons .topo button{
+    border-radius: 3px;
+    border-style: none;
+    padding: 10px;
+    margin: 5px;
+    width: 70px;
+}
+
+.buttons .topo {
+    margin-right: -240px;
+}
+
+.outras-funcoes button{
+    border-radius: 3px;
+    border-style: none;
+    font-size: 50px;
+    margin: 5px;
+    padding: 10px;
+    width: 70px;
+    margin-left: 10px;
+}
+
+.texto{
+    margin-top: -600px;
+}
+
+.not {
+    background-color: rgba(17, 17, 17, 0.585);
+}

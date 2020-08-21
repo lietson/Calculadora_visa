@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="img/icon.png">
+</head>
+<body>
+    
+    <div class="container">
+        <div class="conteudo mt-4 text-center">
+            <input type="text" name="visor" id="visor" data-js="visor" disabled value="0" class="form-control">
+            <div class="buttons mt-4">
+                <div class="topo">
+                    <button data-id="button-raiz" value="√" class="btn btn-info">√</button>
+                    <button class="btn btn-info not">D</button>
+                    <button data-id="button-ce" value="ce" class="btn btn-danger">CE</button>
+                    <button data-id="button-c" value="c" class="btn btn-danger">C</button>
+                    <button data-js="button-operation" data-id="button-operaion-div" value="÷" class="btn btn-secondary">÷</button>
+                </div>
+                <div class="outras-funcoes text-left">
+                    <button class="btn btn-info not">A</button><br>
+                    <button data-js="pi" class="btn btn-info">PI</button><br>
+                    <button data-js="button-operation" value="^" class="btn btn-info">xʸ</button><br>
+                    <button class="btn btn-info not">B</button>
+                    <button class="btn btn-info not">C</button>
+                </div>
+                <div class="buttons-numbers text-center">
+                    <button data-js="button-number" value="1" class="btn btn-dark">1</button>
+                    <button data-js="button-number" value="2" class="btn btn-dark">2</button>
+                    <button data-js="button-number" value="3" class="btn btn-dark">3</button><br>
+                    <button data-js="button-number" value="4" class="btn btn-dark">4</button>
+                    <button data-js="button-number" value="5" class="btn btn-dark">5</button>
+                    <button data-js="button-number" value="6" class="btn btn-dark">6</button><br>
+                    <button data-js="button-number" value="7" class="btn btn-dark">7</button>
+                    <button data-js="button-number" value="8" class="btn btn-dark">8</button>
+                    <button data-js="button-number" value="9" class="btn btn-dark">9</button><br>
+                    <button data-js="button-number" value="0" class="btn btn-dark">0</button>
+                </div>
+                <div class="operadores text-right">
+                    <button data-js="button-operation" value="x" class="btn btn-secondary">x</button><br>
+                    <button data-js="button-operation" value="+" class="btn btn-secondary">+</button><br>
+                    <button data-js="button-operation" value="-" class="btn btn-secondary">-</button><br>
+                    <button data-id="button-equal" value="=" class="igual btn btn-success">=</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="texto text-right">
+            <h1>Calculadora VISA</h1>
+            <small>by Lietson dos santos</small>
+            <small>twitter: @DosWime</small>
+            <small>instagram: @wime69</small>
+        </div>
+    </div>
+
+    <script src="js/jquery-3.5.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
