@@ -1,2 +1,2 @@
 # Calculadora_visa
-calculadora capaz de realizar as operações matemáticas básicas e capaz de resolver o valor de PI e calcular a raiz quadrada
+Calculadora básica capaz de calcular o valor de PI calcular a raiz quadrada e calcular a Exponenciação
