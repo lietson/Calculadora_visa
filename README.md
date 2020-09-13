@@ -1,2 +1,10 @@
 # Calculadora_visa
-Calculadora básica capaz de calcular o valor de PI calcular a raiz quadrada e calcular a Exponenciação
+Basic calculator capable of calculating the value of PI, calculating the square root and calculating the Exponentiation
+![screen capture](image.png)
+
+##technologies used
+
+-  [HTML5]
+-  [JavaScript]
+-  [CSS3]
+-  [Bootstrap4]
