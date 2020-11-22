@@ -1,5 +1,5 @@
 # Calculadora_visa
-Basic calculator capable of calculating the value of PI, calculating the square root and calculating the Exponentiation
+Basic calculator capable of performing basic calculations including PI value, square root and exponentiation
 
 ### demonstration
 
