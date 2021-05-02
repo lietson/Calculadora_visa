@@ -35,7 +35,7 @@ $ git clone https://github.com/lietsondossanto/calculator
 $ cd calculator
 
 # run
-$ firefox index.html
+$ x-www-browser index.html
 ```
 
 <br><h1 id="Technology">🚀 Technology</h1>
