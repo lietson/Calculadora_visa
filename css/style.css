@@ -10,6 +10,7 @@ body{
     -webkit-border-radius: 10px;
     padding: 10px;
     width: 450px;
+    margin: 50px auto;
 }
 
 .conteudo input[name="visor"] {
@@ -87,10 +88,6 @@ body{
     padding: 10px;
     width: 70px;
     margin-left: 10px;
-}
-
-.texto{
-    margin-top: -600px;
 }
 
 .not {
