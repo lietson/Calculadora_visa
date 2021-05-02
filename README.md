@@ -17,7 +17,7 @@
 
 <h2 id="Project">💻 About the Project</h2>
 
-Esta é uma calculadora capaz de realizar as operações basicas, também consegui calcular o valor de `PI`, exponenciação e Raiz quadrada.
+This is a calculator capable of performing basic operations, I was also able to calculate the value of `PI`, exponentiation and square root.
 
 ## Imagem do Projecto
 <img src="./img/img.png">
